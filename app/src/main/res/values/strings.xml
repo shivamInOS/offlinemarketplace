@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Offline Marketplace</string>
+
+    <!-- Listings Screen -->
+    <string name="marketplace_title">Marketplace</string>
+    <string name="create_new_listing">Create new listing</string>
+    <string name="no_listings_empty_state">No listings available.\nTap + to create your first item.</string>
+
+    <!-- Listing Card -->
+    <string name="cd_listing_image">Image for %1$s</string>
+    <string name="cd_placeholder_image">Placeholder image for %1$s</string>
+    <string name="cd_remove_favorite">Remove %1$s from favorites</string>
+    <string name="cd_add_favorite">Add %1$s to favorites</string>
+    <string name="toast_item_added_to_favorites">Item added to favorite list</string>
+    <string name="toast_item_removed_from_favorites">Item removed from favorite list</string>
+
+    <!-- Sync Status Chips -->
+    <string name="status_pending">Pending</string>
+    <string name="status_synced">Synced</string>
+    <string name="status_failed">Failed</string>
+
+    <!-- Edit/Create Screen -->
+    <string name="title_create_listing">Create Listing</string>
+    <string name="title_edit_listing">Edit Listing</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_selected_listing_image">Selected Listing Image</string>
+    <string name="cd_add_image">Add image</string>
+    <string name="tap_to_choose_photo">Tap to choose a photo</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="label_title">Title *</string>
+    <string name="label_category">Category *</string>
+    <string name="label_price">Price ($) *</string>
+    <string name="label_description">Description *</string>
+    <string name="btn_save_listing_offline">Save Listing (Offline)</string>
+    <string name="btn_update_listing">Update Listing</string>
+</resources>
